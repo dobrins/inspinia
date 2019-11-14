@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,300,500,700");
+
+$md-color-primary: #1AB394;
+$md-shadow-main: none;
+
+body.vedamo-skin {
+  font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+}
+
+.nav > li > a {
+  font-weight: normal;
+}
+
+.btn {
+  font-weight: bold;
+}
